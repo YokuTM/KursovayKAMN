@@ -5,7 +5,7 @@
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 		<title>квиток</title>
 	</head>
-	<body style='font-size:16px ; font-weight:100; font-family: Geneva, Arial, Helvetica, sans-serif;'>
+	<body style='font-size:16px ; font-weight:100; font-family: Geneva, Times New Roman, Helvetica, sans-serif;'>
 		<p>
 		РАСЧЕТНЫЙ ЛИСТОК ЗА ${mesyac} 2020
 		</p>

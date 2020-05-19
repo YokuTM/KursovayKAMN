@@ -489,3 +489,9 @@
 0:0:0:0:0:0:0:1 - - [19/May/2020:20:57:11 +0500] "GET /CalcWeb/calc HTTP/1.1" 200 1431 http-bio-8080-exec-4 35
 0:0:0:0:0:0:0:1 - - [19/May/2020:20:57:14 +0500] "POST /CalcWeb/calc HTTP/1.1" 302 - http-bio-8080-exec-5 1
 0:0:0:0:0:0:0:1 - - [19/May/2020:20:57:14 +0500] "GET /CalcWeb/result HTTP/1.1" 200 2403 http-bio-8080-exec-6 425
+0:0:0:0:0:0:0:1 - - [19/May/2020:21:20:11 +0500] "GET /CalcWeb/login HTTP/1.1" 200 986 http-bio-8080-exec-1 35
+0:0:0:0:0:0:0:1 - - [19/May/2020:21:20:14 +0500] "POST /CalcWeb/login HTTP/1.1" 200 439 http-bio-8080-exec-3 7
+0:0:0:0:0:0:0:1 - - [19/May/2020:21:20:17 +0500] "POST /CalcWeb/login HTTP/1.1" 302 - http-bio-8080-exec-4 1
+0:0:0:0:0:0:0:1 - - [19/May/2020:21:20:18 +0500] "GET /CalcWeb/calcManager HTTP/1.1" 200 2163 http-bio-8080-exec-5 597
+0:0:0:0:0:0:0:1 - - [19/May/2020:21:20:21 +0500] "POST /CalcWeb/calcManager HTTP/1.1" 302 - http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [19/May/2020:21:20:21 +0500] "GET /CalcWeb/result HTTP/1.1" 200 2397 http-bio-8080-exec-8 61
